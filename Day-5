@@ -1,0 +1,20 @@
+On Day 5, we built a GitHub repository for our portfolio and deployed it using Render.
+Key points covered:
+
+Created a new GitHub repository specifically for our personal portfolio website.
+
+Pushed the complete portfolio project (HTML/CSS/JavaScript or React files) to the GitHub repository.
+
+Set up the project structure properly for deployment (e.g., having an index.html or proper build folder if using React).
+
+Learned how to connect the GitHub repository to Render.
+
+Deployed the portfolio live using Render's static site hosting feature.
+
+Understood the importance of build commands (like npm run build for React apps) during deployment.
+
+Explored how to update the deployed site automatically by pushing changes to the GitHub repository.
+
+Learned to copy and share the Render live site URL to showcase our portfolio to others.
+
+This session helped us understand the end-to-end flow of publishing a personal website from development, version control using GitHub, to deployment on a live server using Render.
