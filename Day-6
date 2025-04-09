@@ -1,0 +1,23 @@
+On Day 6, we learned the basics of Selenium and worked with it using a virtual environment.
+
+Key highlights from the session:
+
+Understood what Selenium is — a powerful tool for automating web browsers.
+
+Installed Selenium using pip inside a virtual environment to manage dependencies cleanly.
+Learned about WebDrivers (e.g., ChromeDriver) and how they interact with browsers.
+
+Wrote simple Python scripts using Selenium to:
+
+Launch a browser window.
+
+Open a website (like Google or any other).
+
+Locate elements using methods like find_element_by_name, find_element_by_id, etc.
+
+Perform actions such as clicking buttons or typing into input fields.
+
+Understood basic concepts like locators, automation flow, and browser control.
+
+This session gave us a strong introduction to web automation and taught us how to set up a clean Python environment for working on such projects.
+
