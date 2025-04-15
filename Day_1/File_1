@@ -1,1 +1,26 @@
-On Day 1, we covered the basics of Software Testing, including the need for software testing, the types of software testing, and where exactly software is being used.Software Testing is the process of evaluating a software application to identify any errors, gaps, or missing requirements.Software Testing is essential to deliver a reliable and high-quality product to users. It helps in detecting bugs and issues early in the development cycle, reducing the cost of fixing them later. Testing ensures the software is secure, user-friendly, and performs efficiently. It also builds customer confidence and satisfaction by delivering error-free and dependable software.There are two main types of software testing: Manual Testing and Automated Testing. Manual testing involves testers checking the application manually for defects without using any tools. Automated testing uses tools and scripts to perform tests, making it faster and more efficient. Testing can also be categorized as Functional Testing (to check if the software functions as expected) and Non-Functional Testing (to test performance, usability, reliability, etc.). Other common types include unit testing, integration testing, system testing, and acceptance testing.
+Software Testing is the process of evaluating a software application to identify errors, gaps, or missing requirements.
+
+It ensures the delivery of a reliable and high-quality product.
+
+Detects bugs and issues early in the development cycle.
+
+Reduces the cost of fixing bugs later.
+
+Ensures the software is secure, user-friendly, and performs efficiently.
+
+Builds customer confidence and satisfaction.
+
+Software is used in various domains like education, healthcare, banking, transportation, communication, and entertainment.
+
+Types of Software Testing:
+
+1.Manual Testing: Performed manually without using tools.
+
+2.Automated Testing: Performed using tools and scripts for faster and more efficient testing.
+
+3.Categories of Testing:
+
+4.Functional Testing: Checks if the software functions as expected.
+
+5.Non-Functional Testing: Tests aspects like performance, usability, and reliability.
+
