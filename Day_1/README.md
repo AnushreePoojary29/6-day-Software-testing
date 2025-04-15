@@ -23,3 +23,5 @@ Types of Software Testing:
 4.Functional Testing: Checks if the software functions as expected.
 
 5.Non-Functional Testing: Tests aspects like performance, usability, and reliability.
+
+
